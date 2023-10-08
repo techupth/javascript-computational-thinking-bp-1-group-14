@@ -30,8 +30,8 @@ function findMoviesByYear(movies, year) {
     }
    return newTitle
 }
-const resultObject = findMoviesByYear(movies, "1994");
-console.log(resultObject)
+const Exercise4 = findMoviesByYear(movies, "1994");
+console.log(Exercise4)
 /* Output:
 [
   { title: "The Shawshank Redemption", releaseDate: "1994-10-14", genre: "Drama" },

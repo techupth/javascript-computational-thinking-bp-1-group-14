@@ -21,5 +21,5 @@ function getMostExpensiveProduct(products) {
   return highName
 }
 
-let y = getMostExpensiveProduct(products); // Output: { name: "Laptop", price: 1000 }
-console.log(y)
+let Exercise3 = getMostExpensiveProduct(products); // Output: { name: "Laptop", price: 1000 }
+console.log(Exercise3)

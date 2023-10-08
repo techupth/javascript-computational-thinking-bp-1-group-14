@@ -10,9 +10,8 @@ if(words[i] === "a"|| words[i] === "A" ||words[i] === "e" || words[i] === "E" ||
   return countvowel
 }
 
-let test = countVowels("Hello World"); // Output: 3
-let test2 = countVowels("TechUp"); // Output: 2
-
-console.log(test)
-console.log(test2)
+let Exercise1 = countVowels("Hello World"); // Output: 3
+let Exercise2 = countVowels("TechUp"); // Output: 2
+console.log(Exercise1)
+console.log(Exercise2)
 
