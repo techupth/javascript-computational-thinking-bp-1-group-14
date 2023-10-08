@@ -11,8 +11,8 @@ for(let i = 0; i < words.length ; i++) {
 return obj;
 }
 const str = "Techupth";
-let string = getLetterFrequency(str);
-console.log(string)
+let Exercise5= getLetterFrequency(str);
+console.log(Exercise5)
 /* Output:
 {
   t: 2,

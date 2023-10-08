@@ -13,5 +13,5 @@ function addNumber(numbers, amount) {
 
 let result = addNumber(numbers, 10);  // Output: [20, 30, 40]
 console.log(result)
-let result2 = addNumber(anotherNumbers, 2); // Output: [4, 6, 8]
-console.log(result2)
+let result3 = addNumber(anotherNumbers, 2); // Output: [4, 6, 8]
+console.log(result3)
